@@ -18,7 +18,7 @@ pipeline {
         }
         stage('Deploy') {
             steps {
-                echo 'Étape de déploiement en cours serge...'
+                echo 'Étape de déploiement en cours suppime...'
                 // Ici, vous pouvez ajouter les commandes pour déployer votre projet
                 // Par exemple : sh 'make deploy'
             }
